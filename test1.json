@@ -1,0 +1,19 @@
+{
+  "AllMessage" : [
+    {
+      "Animation" : "3",
+      "Name" : "Антон",
+      "Text" : "12345"
+    },
+    {
+      "Animation" : "2",
+      "Name" : "Егор",
+      "Text" : "Счастья"
+    },
+        {
+      "Animation" : "1",
+      "Name" : "Армэн",
+      "Text" : "Здоровья"
+    }
+  ]
+}
